@@ -80,7 +80,7 @@ Sales-Analytics-Dashboard/
 
 Add your dashboard screenshot here:
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 🔗 Author
 
